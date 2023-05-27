@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Node.js & Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-04c9b5.webflow.io/](https://portfolio-04c9b5.webflow.io/)
-
 - 💬 Ask me about **.NET, C# and SaaS design**
 
 - 📫 How to reach me **abm.coolen@gmail.com**
